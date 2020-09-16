@@ -8,5 +8,5 @@ def times_3(x):
 
 if __name__ == '__main__':
 
-    x = input("Enter a number: ")
+    x = int(input("Enter a number: "))
     print(times_3(x))
