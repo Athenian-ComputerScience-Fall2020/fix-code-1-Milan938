@@ -1,5 +1,5 @@
 # Collaborators (including web sites where you got help: (enter none if you didn't need help)
-#  
+#  Megan 
 
 def times_3(x):
     product = int(x) * 3
